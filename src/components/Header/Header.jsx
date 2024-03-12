@@ -1,5 +1,5 @@
 import React from 'react';
-import Bootles from '../Bootles/Bootles';
+import Bootles from '../Bootles/Bottles';
 
 const Header = () => {
     return (
